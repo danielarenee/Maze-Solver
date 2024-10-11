@@ -10,10 +10,10 @@ The maze is represented as a 2D character array, where: <br>
 	•	'0' represents valid paths <br>
 	•	Other characters represent walls or obstacles <br> <br>
 
- To use:
-  1.  Create a text file named laberinto.txt with the maze structure, using the characters defined above.
-	2.	Run the program
-	3.	The program will read the maze from the file and output the sequence of movements needed to reach the finish point
+ To use: <br>
+  	1.  	Create a text file named laberinto.txt with the maze structure, using the characters defined above <br>
+	2.	Run the program <br>
+	3.	The program will read the maze from the file and output the sequence of movements needed to reach the finish point <br>
 	
 # What I Learned!
 
